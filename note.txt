@@ -1,0 +1,61 @@
+**Java Basics** DONE
+
+-- Sample Code (print hello world)
+--	explain main
+--	explain static
+--	explain command line
+--	Sample output
+--	Commets
+--	Single line
+--	Multi line
+
+**Data Types** DONE
+--	byte short , int , long , float ,double , char
+
+**Operators** DONE
+--	Arithematic DONE
+--	Unary Operators (+, -, ++,   --, ! ) DONE
+--	Relational Operators DONE
+--	Logical Operators	(&&, || ) DONE
+--	Assignment Operators DONE
+--	Bitwise (To be done in Bit Minipulation)
+--	Ternary Operators DONE
+
+**Strings** DONE
+--	define , immutable
+--	char array to string
+--	concatenate, length, charAt, sunstring, equals
+
+**Input / Output** DONE
+--	Scanner class
+--	nextInt, nextDouble,	nextLine,	nextBoolean, next
+--	Why not BufferedReader
+
+Type Casting DONE
+--	Implicit
+--	Explicit
+
+**Constants** DONE
+--	final keyword
+
+**Arrays** DONE
+--	declaration, length, accessing
+--	for each loop
+--	2D array
+
+**Conditional Statements** DONE
+--	if else
+--	if else if
+--	nested if else
+--	switch
+
+**Loops** DONE
+
+--	for loops
+--	while loops
+--	do while loops (keep taking input till the user enters positive number)
+
+**Exception Handling (try-catch-finally)** DONE
+
+
+[takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/language-basics/java-basics/discussion?id=Z8iLbG_x](http://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/language-basics/java-basics/discussion?id=Z8iLbG_x)
