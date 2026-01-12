@@ -19,7 +19,7 @@
             "command": "sh",
             "args": [
                 "-c",
-                "cd \"${fileDirname}\" && javac \"${fileBasename}\" && java -cp \"${fileDirname}\" \"${fileBasenameNoExtension}\" < input.txt > output.txt"
+                "cd \"${fileDirname}\" && javac \"${fileBasename}\" && java -cp \"${fileDirname}\" Main < input.txt > output.txt"
             ],
             "group": {
                 "kind": "build",

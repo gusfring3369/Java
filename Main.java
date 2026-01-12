@@ -1,14 +1,39 @@
-import java.util.Scanner;
+
+class School {
+    private String name;
+
+    School(){
+        name = "DPS";
+    }
+
+    void printSchoolName(){
+        System.out.println("School Name is " + name);
+    }
+
+}
+
+class Student extends School {
+    private String name;
+
+    Student(String name){
+        this.name = name;
+    }
+
+    void printStudentName(){
+        System.out.println("Student Name is " + name);
+    }
+}
+
 
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        Student anon = new Student("anon");
 
-        Scanner scanner = new Scanner(System.in);
-        float num = scanner.nextFloat();
+        anon.printStudentName();
+        anon.printSchoolName();
 
-        System.out.println(num);
 
-        scanner.close();
+
     }
 }
